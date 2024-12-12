@@ -1,5 +1,5 @@
 Lớp DA thầy Long
-Lộ trình học 3 Leve, Qua các level được làm task thật, data thật từ các công ty, và làm trên cơ sở hạ tầng thật (azure cloud , aws , oracle , big query ) do thầy Long cài cắm, giống với thực tế đi làm ở các doanh nghiệp khoảng 80%. Tất cả đều là dữ liệu thật, và real tasks từ các yêu cầu của công ty trong thực tế.
+Lộ trình học 3 Level, Qua các level được làm task thật, data thật từ các công ty, và làm trên cơ sở hạ tầng thật (azure cloud , aws , oracle , big query ) do thầy Long cài cắm, giống với thực tế đi làm ở các doanh nghiệp khoảng 80%. Tất cả đều là dữ liệu thật, và real tasks từ các yêu cầu của công ty trong thực tế.
 
 Level 1: Descriptive Analytics
 
